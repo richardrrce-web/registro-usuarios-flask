@@ -1,0 +1,8 @@
+# Ignorar la base de datos local de SQLite
+usuarios.db
+
+# Ignorar archivos temporales de Python e instaladores
+__pycache__/
+*.pyc
+.venv/
+instance/
